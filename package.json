@@ -1,0 +1,16 @@
+{
+  "name": "serverless-jams",
+  "description": "",
+  "version": "0.2.0",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwks-rsa": "^2.0.3",
+    "node-fetch": "^2.6.1",
+    "serverless-finch": "^2.5.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "serverless-finch": "^2.5.2"
+  }
+}
